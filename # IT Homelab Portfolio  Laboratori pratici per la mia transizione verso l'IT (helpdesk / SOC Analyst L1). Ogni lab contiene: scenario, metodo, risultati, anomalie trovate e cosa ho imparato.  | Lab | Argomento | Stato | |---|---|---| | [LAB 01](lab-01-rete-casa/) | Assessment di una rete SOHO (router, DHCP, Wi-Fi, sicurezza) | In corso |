@@ -1,0 +1,8 @@
+# IT Homelab Portfolio
+
+Laboratori pratici per la mia transizione verso l'IT (helpdesk / SOC Analyst L1).
+Ogni lab contiene: scenario, metodo, risultati, anomalie trovate e cosa ho imparato.
+
+| Lab | Argomento | Stato |
+|---|---|---|
+| [LAB 01](lab-01-rete-casa/) | Assessment di una rete SOHO (router, DHCP, Wi-Fi, sicurezza) | In corso |
